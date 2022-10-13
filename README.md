@@ -6,10 +6,10 @@
 
 
 ### About Me :
-I am a teenage developer from Australia :
+I am a teenage developer from Australia and some interest of mine include:
 - :zap: Working on using Github more and helping with the open-source community.
-- :seedling: Exploring python and getting better at it.
-- :brain: In my free time I like to play chess, solve rubixs cubes, and write code.
+- :seedling: Exploring python and other languages to expand my knowledge.
+- :brain: Personal hobbuies include chess, cubing, and coding (duh)
 
 ---
 
