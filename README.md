@@ -9,7 +9,7 @@
 I am a teenage developer from Australia and some interest of mine include:
 - :zap: Working on using Github more and helping with the open-source community.
 - :seedling: Exploring python and other languages to expand my knowledge.
-- :brain: Personal hobbuies include chess, cubing, and coding (duh)
+- :brain: Personal hobbies include chess, cubing, and coding (duh)
 
 ---
 
