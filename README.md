@@ -4,13 +4,6 @@
     <img src="https://komarev.com/ghpvc/?username=Zacky2613&style=flat-square&color=blue" alt=""/>
 </div>
 
-
-### About Me :
-I am a teenage developer from Australia and some interest of mine include:
-- :zap: Working on using Github more and helping with the open-source community.
-- :seedling: Exploring python and other languages to expand my knowledge.
-- :brain: Personal hobbies include chess, cubing, and coding (duh)
-
 ---
 
 ### :hammer_and_wrench: Languages I know :
