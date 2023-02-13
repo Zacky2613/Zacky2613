@@ -1,13 +1,17 @@
 <h1 align=center> Hey:wave:, I'm Zacky2613 </h1>
 
-<div align=center>
-    <img src="https://komarev.com/ghpvc/?username=Zacky2613&style=flat-square&color=blue" alt=""/>
-</div>
 
----
+<img src="https://komarev.com/ghpvc/?username=Zacky2613&style=flat-square&color=blue" alt=""/>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zacky2613" alt="zacky2613" /></a><br>
 
-### :hammer_and_wrench: Languages I know :
+I'm a 14 year old programmer from Australia and I love to work on my own projects and collaborate with others on theirs through pull requests!
+- 🔭 I'm currently working on <a href="https://github.com/Zacky2613/Untrustworthy">Untrustworthy</a>
+- :seedling: I'm learning website development & mostly Javascript 
+- :fire: Goal is to reach an 100+ Github commit streak
+
+### :hammer_and_wrench: Languages/Tools:
 <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"  title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg"  title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"  title="C" alt="C" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
