@@ -21,5 +21,5 @@
 ---
 
 ### Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zacky2613&theme=dark)](https://git.io/streak-stats)
-[![Zacky2613's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zacky2613&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zacky2613&theme=dark)](https://git.io/streak-stats)
+[![Zacky2613's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Zacky2613&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
