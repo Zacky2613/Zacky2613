@@ -1,11 +1,11 @@
 <h1 align=center> Hey:wave:, I'm Zacky2613 </h1>
 
 
-<img src="https://komarev.com/ghpvc/?username=Zacky2613&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=zacky2613&style=flat-square&color=blue" alt=""/>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zacky2613" alt="zacky2613" /></a><br>
 
 I'm a 14 year old programmer from Australia and I love to work on my own projects and collaborate with others on theirs through pull requests!
-- 🔭 I'm currently working on <a href="https://github.com/Zacky2613/Untrustworthy">Untrustworthy</a>
+- 🔭 I'm currently working on <a href="https://github.com/Zacky2613/Website-Terminal">Website-Terminal</a> and other projects!
 - :seedling: I'm learning website development & mostly Javascript 
 - :fire: Goal is to reach an 100+ Github commit streak
 
@@ -25,5 +25,5 @@ I'm a 14 year old programmer from Australia and I love to work on my own project
 ---
 
 ### Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zacky2613&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zacky2613&theme=dark)](https://git.io/streak-stats)
 [![Zacky2613's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Zacky2613&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
