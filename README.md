@@ -7,7 +7,7 @@
 I'm a 14 year old programmer from Australia and I love to work on my own projects and collaborate with others on theirs through pull requests!
 - 🔭 I'm currently working on <a href="https://github.com/Zacky2613/Website-Terminal">Website-Terminal</a> and other projects!
 - :seedling: I'm learning website development & mostly Javascript 
-- :fire: Goal is to reach an 100+ Github commit streak
+- :fire: Goal is to have lots of commits throughtout the year
 
 ### :hammer_and_wrench: Languages/Tools:
 <div>
