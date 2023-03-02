@@ -1,7 +1,7 @@
 <h1 align=center> Hey:wave:, I'm Zacky2613 </h1>
 
 
-<img src="https://komarev.com/ghpvc/?username=zacky2613&style=flat-square&color=blue" alt=""/>
+<h1 align=center><img src="https://komarev.com/ghpvc/?username=zacky2613&style=flat-square&color=blue" alt=""/></h1>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zacky2613" alt="zacky2613" /></a><br>
 
 I'm a 14 year old programmer from Australia and I love to work on my own projects and collaborate with others on theirs through pull requests!
