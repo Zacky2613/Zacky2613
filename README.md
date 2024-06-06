@@ -1,4 +1,4 @@
-<h1 align=center> Hey:wave:, I'm Zacky2613 </h1>
+<h1 align=center> Hey :wave:, I'm Zacky2613 </h1>
 
 
 <h1 align=center><img src="https://komarev.com/ghpvc/?username=zacky2613&style=flat-square&color=blue" alt=""/></h1>
