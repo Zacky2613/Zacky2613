@@ -4,7 +4,6 @@
 <h1 align=center><img src="https://komarev.com/ghpvc/?username=zacky2613&style=flat-square&color=blue" alt=""/></h1>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zacky2613" alt="zacky2613" /></a><br>
 
-Young Programmer looking to make his coding dreams a reality.
 - 🔭 I'm currently working on <a href="https://github.com/Zacky2613/Website-Terminal">Website-Terminal</a> and other projects!
 - :fire: Goal is to have lots of commits throughtout the year
 
